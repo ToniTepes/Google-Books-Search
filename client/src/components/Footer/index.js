@@ -5,7 +5,7 @@ function Footer() {
     <footer>
       <hr />
       <p className="pull-right">
-        <i className="fab fa-github" /> Proudly built using React.js
+      <a className="fab fa-github" href = "https://github.com/TonyTepes/Google-Books-Search">  REACT  </a>
       </p>
     </footer>
   );
